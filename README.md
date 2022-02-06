@@ -5,12 +5,12 @@
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue"></a>
 <a href="https://github.com/Unknownvip/Afk-Music/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square"></a></p>
 
-<p align="center"><a href="https://t.me/UNIQUE_society"><img src="https://telegra.ph/file/6af06eb789bc3b1eb89d1.jpg" height="300" width="310" alt="Music Player"></p>
+<p align="center"><a href="https://t.me/UNIQUE_society"><img src="https://te.legra.ph/file/85a16053a2d0be6b64ae6.jpg" height="300" width="310" alt="Music Player"></p>
 
 ## ✨ Heroku Deploy
 Change the app region to Europe (it will help to make the bot stable)
   
-<p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/Unknownvip/afk-music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250" alt="Deploy"></a></p>
+<p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/Streamingsbot/Afk-Music/edit/main/README.md"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250" alt="Deploy"></a></p>
 
 ## 🏃‍♂ Pyrogram Session
 
